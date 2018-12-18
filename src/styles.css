@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.box {
+  display: inline-block;
+  margin: "40px";
+  background: "blue";
+}
+
+.containerboc {
+  display: inline-block;
+  margin: "40px";
+  background: "lightgray";
+  border-radius: "2px";
+  border: 3px solid "black";
+  padding: 3px;
+  box-shadow: 1px 1px 1px 1px #e7e7e7;
+}
+
+.hint {
+  display: inline;
+}
